@@ -1,0 +1,1 @@
+This is a project i did for it to be easier to see the specific top time you would like. It gets the ranking from swimcloud website then on jupyter notebook you will find "final_df" under variables. From that you can see the dataframe on the data viewer and filter from there
